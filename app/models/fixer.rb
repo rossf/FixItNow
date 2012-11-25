@@ -1,0 +1,3 @@
+class Fixer < User
+ 
+end
